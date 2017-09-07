@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/JabRef/jabref/8e36cef7d0ea3681164f52def6728b77c60c5269/src/main/resources/images/icons/JabRef-icon-48.png" alt="Project">
   <br />
-  [Project]
+  JabRef
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for JabRef</b>, <i>"Single-line elevator pitch for your amazing snap"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -63,9 +63,9 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 
 ## The Snapcrafters
 
-| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
+| LarreaMikel(http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/LarreaMikel) |
 | :---: |
-| [Your Name](https://github.com/yourname/) |
+| Mikel Larrea (https://github.com/LarreaMikel) |
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
