@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Project">
+  <img src="https://raw.githubusercontent.com/JabRef/jabref/8e36cef7d0ea3681164f52def6728b77c60c5269/src/main/resources/images/icons/JabRef-icon-48.png" alt="Project">
   <br />
   [Project]
 </h1>
